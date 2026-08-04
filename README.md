@@ -1,6 +1,6 @@
 # Hi, I'm Shantanu Kulkarni
 
-I'm a second-year Computer Science student from Pune who enjoys building practical projects and turning ideas into working solutions.
+I'm a third-year Computer Science student from Pune who enjoys building practical projects and turning ideas into working solutions.
 
 ## About Me
 
