@@ -1,27 +1,68 @@
-# Hi, I'm Shantanu Kulkarni
+<h1 align="center">Hi, I'm Shantanu Kulkarni 👋</h1>
 
-I'm a third-year Computer Science student from Pune who enjoys building practical projects and turning ideas into working solutions.
+<p align="center">
+  3rd-year Computer Engineering student at AISSMS IOIT, Pune<br>
+  I build backend, cloud, and AI-powered projects, and I'm looking for a software engineering internship.
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shantanu-kulkarni994/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f" alt="Open to internships">
+</p>
 
-I am passionate about software development, problem solving, and learning modern technologies. I enjoy working on projects that combine both frontend and backend development.
+---
 
-- Currently exploring full-stack development
-- Building projects with Python, Java, and web technologies
-- Interested in creating useful and user-friendly applications
+## About
+
+I like building practical, industry-style projects rather than basic CRUD apps: background job queues, CI/CD pipelines, analytics dashboards, and LLM-powered features. I'm strengthening my fundamentals through projects, LeetCode, and competitive programming, and I'm looking for an internship where I can work on real engineering problems and learn from experienced developers.
+
+## Current Focus
+
+- **Backend & cloud:** APIs, queues, Docker, CI/CD, cloud deployment
+- **AI / LLM applications:** building with LLM APIs, exploring RAG
+- **Data structures & algorithms:** regular LeetCode and competitive programming practice
+- **Internships:** looking for hands-on software engineering roles
 
 ## Featured Projects
 
-- AI Personalized Attendance Tracking System — an attendance-focused solution with automation and smart tracking
-- Courier Logistics System — a desktop-based application for shipment and billing management
-- Habit-Flow — a habit tracker with streaks, analytics, and visual progress tracking
-- Solar Cost Estimator — a simple web-based tool for estimating solar costs
+**[PulseWatch](https://github.com/shantanu994/pulsewatch)** · [Live demo](https://pulsewatch-taupe.vercel.app)
+Uptime monitoring platform. Celery Beat schedules health checks every 60 seconds, workers record the results, and email alerts fire only when a monitor goes from up to down, so there is no alert spam. A React dashboard shows uptime, check history, and charts.
+`FastAPI` `PostgreSQL` `Redis` `Celery` `Docker Compose` `React` `Vite`
 
-## Skills
+**[DeployX](https://github.com/shantanu994/DeployX)** · Team project
+Cloud CI/CD platform that takes a GitHub push through build, test, Docker image, and IBM Cloud deployment, with a dashboard for pipeline status and logs. My part: cloud infrastructure and DevOps.
+`IBM Cloud` `Docker` `GitHub Actions` `React` `Vite`
 
-Python, Java, JavaScript, HTML, CSS, React, Flask, MySQL, SQLite, Git, GitHub
+**[Personalized Attendance Tracking](https://github.com/Mitalii1/PERSONALIZED-ATTENDANCE-TRACKING)**
+Students upload a timetable image, the schedule is extracted with an LLM API, and they mark attendance per slot. The app then gives subject-wise summaries, trend forecasting, and risk suggestions.
+`React` `Flask` `MySQL` `Groq API`
+
+**[HabitFlow](https://github.com/shantanu994/Habit-Flow)**
+Habit tracker with streaks, weekly targets, an analytics view (trend, bar, and pie charts), and a GitHub-style yearly heatmap. Includes one-click demo data seeding.
+`Flask` `React` `SQLAlchemy` `MySQL` `Recharts`
+
+**[Courier Logistics System](https://github.com/shantanu994/Courier-Logistics-System)**
+Java desktop app for courier operations: customers, employees, shipment tracking with status history, and billing. Built with DAO and MVC patterns over JDBC, with role-based login (Admin / Manager / Courier).
+`Java` `Swing` `JDBC` `MySQL`
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · Java · C++ · JavaScript |
+| **Backend** | FastAPI · Flask · Node.js · REST APIs · JWT auth · Celery |
+| **Frontend** | React · Vite · Tailwind CSS · HTML · CSS |
+| **Databases** | MySQL · PostgreSQL · Redis · SQLAlchemy · Alembic |
+| **Cloud / DevOps** | Docker · GitHub Actions · CI/CD · IBM Cloud |
+| **AI / LLM** | Groq API · Prompt engineering · Exploring RAG and Generative AI |
+| **CS Fundamentals** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
+| **Tools** | Git · GitHub · VS Code · Postman · Claude / AI coding tools |
+
+## Problem Solving
+
+I practise data structures and algorithms on LeetCode and through competitive programming.
+<!-- Add your LeetCode profile link here once you have it. -->
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/shantanu-kulkarni-556074329/)
-- [Portfolio](https://shantanu994.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/shantanu-kulkarni994/) · [All repositories](https://github.com/shantanu994?tab=repositories)
