@@ -25,7 +25,7 @@ I like building practical, industry-style projects rather than basic CRUD apps: 
 
 ## Featured Projects
 
-**[PulseWatch](https://github.com/shantanu994/pulsewatch)** · [Live demo](https://pulsewatch-taupe.vercel.app)
+**[PulseWatch](https://github.com/shantanu994/pulsewatch)** · [Live demo](https://pulsewatch-mu.vercel.app/login)
 Uptime monitoring platform. Celery Beat schedules health checks every 60 seconds, workers record the results, and email alerts fire only when a monitor goes from up to down, so there is no alert spam. A React dashboard shows uptime, check history, and charts.
 `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker Compose` `React` `Vite`
 
