@@ -25,7 +25,7 @@ I like building practical, industry-style projects rather than basic CRUD apps: 
 
 ## Featured Projects
 
-**[Portfolio](https://github.com/shantanu994/Portfolio)**
+**[Portfolio](https://github.com/shantanu994/Portfolio)**· [Live demo](https://shantanu994.github.io/Portfolio/)
 Personal portfolio website showcasing my projects, skills, and experience in software engineering, backend, cloud, and AI-focused development.
 `HTML` `CSS` `JavaScript`
 
