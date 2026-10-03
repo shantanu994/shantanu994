@@ -25,6 +25,10 @@ I like building practical, industry-style projects rather than basic CRUD apps: 
 
 ## Featured Projects
 
+**[Portfolio](https://github.com/shantanu994/Portfolio)**
+Personal portfolio website showcasing my projects, skills, and experience in software engineering, backend, cloud, and AI-focused development.
+`HTML` `CSS` `JavaScript`
+
 **[PulseWatch](https://github.com/shantanu994/pulsewatch)** · [Live demo](https://pulsewatch-mu.vercel.app/login)
 Uptime monitoring platform. Celery Beat schedules health checks every 60 seconds, workers record the results, and email alerts fire only when a monitor goes from up to down, so there is no alert spam. A React dashboard shows uptime, check history, and charts.
 `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker Compose` `React` `Vite`
