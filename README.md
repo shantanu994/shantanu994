@@ -33,7 +33,7 @@ Personal portfolio website showcasing my projects, skills, and experience in sof
 Uptime monitoring platform. Celery Beat schedules health checks every 60 seconds, workers record the results, and email alerts fire only when a monitor goes from up to down, so there is no alert spam. A React dashboard shows uptime, check history, and charts.
 `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker Compose` `React` `Vite`
 
-**[DeployX](https://github.com/shantanu994/DeployX)** · Team project
+**[DeployX(In Progress)](https://github.com/shantanu994/DeployX)** ·[Live demo](https://deployx-frontend-latest.onrender.com) Team project
 Cloud CI/CD platform that takes a GitHub push through build, test, Docker image, and IBM Cloud deployment, with a dashboard for pipeline status and logs. My part: cloud infrastructure and DevOps.
 `IBM Cloud` `Docker` `GitHub Actions` `React` `Vite`
 
