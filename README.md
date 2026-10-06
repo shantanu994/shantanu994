@@ -37,7 +37,7 @@ Uptime monitoring platform. Celery Beat schedules health checks every 60 seconds
 Cloud CI/CD platform that takes a GitHub push through build, test, Docker image, and IBM Cloud deployment, with a dashboard for pipeline status and logs. My part: cloud infrastructure and DevOps.
 `IBM Cloud` `Docker` `GitHub Actions` `React` `Vite`
 
-**[Personalized Attendance Tracking](https://github.com/Mitalii1/PERSONALIZED-ATTENDANCE-TRACKING)**
+**[Personalized Attendance Tracking](https://github.com/shantanu994/PERSONALIZED-ATTENDANCE-TRACKING)** · [Live demo](https://personalized-attendance-tracking.vercel.app/)
 Students upload a timetable image, the schedule is extracted with an LLM API, and they mark attendance per slot. The app then gives subject-wise summaries, trend forecasting, and risk suggestions.
 `React` `Flask` `MySQL` `Groq API`
 
